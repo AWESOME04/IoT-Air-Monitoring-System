@@ -54,6 +54,10 @@ The IoT Environmental Monitoring System is designed to monitor air pollution lev
     3. Receive alerts and notifications when pollutant thresholds are exceeded.
     4. Access historical data on the dashboard for trend analysis.
 
+## System Architecture
+
+![Screenshot 2023-06-02 115438](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/3f9ac364-2824-4d5f-b1c9-9cbd20b109c1)
+
 ## Demo
 
 ![2](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/79e14557-28a0-422c-b27a-766ecea947a0)
