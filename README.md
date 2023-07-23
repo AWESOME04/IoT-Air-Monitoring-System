@@ -24,11 +24,14 @@ The IoT Environmental Monitoring System is designed to monitor air pollution lev
     - Historical data logging for trend analysis
     - Integration with Wazigate for cloud connectivity
 
+## Team: Sustainability Seekers
+
 ## Team Members
 
-    - Evans Acheampong
-    - Nathaniel
-    - Nelson
+        Nathaniel Addo-Quaye
+        Nelson ANYIGBA
+        EVANS ACHEAMPONG
+
 
 ## Getting Started
 
@@ -51,7 +54,14 @@ The IoT Environmental Monitoring System is designed to monitor air pollution lev
     3. Receive alerts and notifications when pollutant thresholds are exceeded.
     4. Access historical data on the dashboard for trend analysis.
 
+## System Architecture
+
+![Screenshot 2023-06-02 115438](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/3f9ac364-2824-4d5f-b1c9-9cbd20b109c1)
+
 ## Demo
+
+![2](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/79e14557-28a0-422c-b27a-766ecea947a0)
+
 
 ## Setup
 
@@ -61,6 +71,9 @@ The IoT Environmental Monitoring System is designed to monitor air pollution lev
 
 ![sensor data](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/ff63e11b-9bed-4c00-892d-4dcc4dc918c4)
 
+## Data Visualization
+
+![csv excel](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/ac285a9e-8203-42d2-b5d0-6d5d86a51f19)
 
 
 ## Contributing
