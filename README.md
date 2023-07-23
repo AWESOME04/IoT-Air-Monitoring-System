@@ -1,4 +1,4 @@
-# IoT-Environmental-Monitoring-System
+# IoT-Air-Monitoring-System
 
 ![Screenshot 2023-05-31 121125](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/5a6b6782-09d8-4730-b874-689ec1d82819)
 
