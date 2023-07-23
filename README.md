@@ -1,4 +1,4 @@
-# IoT-Environmental-Monitoring-System
+![image](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/55aee55e-d7ec-479d-a1b9-716014b5e260)# IoT-Environmental-Monitoring-System
 
 ![Screenshot 2023-05-31 121125](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/5a6b6782-09d8-4730-b874-689ec1d82819)
 
@@ -26,9 +26,10 @@ The IoT Environmental Monitoring System is designed to monitor air pollution lev
 
 ## Team Members
 
-    - Evans Acheampong
-    - Nathaniel
-    - Nelson
+        Nathaniel Addo-Quaye
+        Nelson ANYIGBA
+        EVANS ACHEAMPONG
+
 
 ## Getting Started
 
@@ -53,6 +54,9 @@ The IoT Environmental Monitoring System is designed to monitor air pollution lev
 
 ## Demo
 
+![2](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/79e14557-28a0-422c-b27a-766ecea947a0)
+
+
 ## Setup
 
 ![1](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/f46b1144-0edb-45a3-ba8b-c96e0c108ba6)
@@ -61,6 +65,9 @@ The IoT Environmental Monitoring System is designed to monitor air pollution lev
 
 ![sensor data](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/ff63e11b-9bed-4c00-892d-4dcc4dc918c4)
 
+Data Visualization
+
+![csv excel](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/ac285a9e-8203-42d2-b5d0-6d5d86a51f19)
 
 
 ## Contributing
