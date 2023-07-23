@@ -1,4 +1,4 @@
-![image](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/55aee55e-d7ec-479d-a1b9-716014b5e260)# IoT-Environmental-Monitoring-System
+# IoT-Environmental-Monitoring-System
 
 ![Screenshot 2023-05-31 121125](https://github.com/AWESOME04/IoT-Environmental-Monitoring-System/assets/102630199/5a6b6782-09d8-4730-b874-689ec1d82819)
 
